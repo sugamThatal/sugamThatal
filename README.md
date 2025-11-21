@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sugam Thatal .</h1>
 <h3 align="center">I am an aspiring Full Stack Web Developer with a strong passion for AI, Machine Learning, IoT, Robotics, and creating innovative web solutions.</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
